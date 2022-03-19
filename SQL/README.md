@@ -2,6 +2,7 @@
 
 | Number 	|        Question       	| Difficulty 	|    Topic   	| Completion Date 	| Solution 	|
 |:------:	|:---------------------:	|:----------:	|:----------:	|:---------------:	|:--------:	|
+|   184  	|   [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)  	|    Medium    	| GROUP BY + Subquery 	|    19/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0184-Department_Highest_Salary)   	|
 |   620  	|   [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)  	|    Easy    	| Simple Query 	|    10/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0620-Not_Boring_Movies)   	|
 |   596  	|   [Classes More Than 5 Students](https://leetcode.com/problems/classes-more-than-5-students/)  	|    Easy    	| GROUP BY, Subquery 	|    10/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0596-Classes_More_Than_5_Students)   	|
 |   595  	|   [Big Countries](https://leetcode.com/problems/big-countries/)  	|    Easy    	| Simple Query 	|    09/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0595-Big_Countries)   	|
