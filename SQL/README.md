@@ -2,6 +2,8 @@
 
 | Number 	|        Question       	| Difficulty 	|    Topic   	| Completion Date 	| Solution 	|
 |:------:	|:---------------------:	|:----------:	|:----------:	|:---------------:	|:--------:	|
+|   185  	|   [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)  	|    Hard    	| DENSE_RANK + GROUP BY 	|    25/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0185-Department_Top_Three_Salaries)   	|
+|   511  	|   [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)  	|    Easy    	| GROUP BY, Subquery 	|    25/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0511-Game_Play_Analysis_I)   	|
 |   196  	|   [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  	|    Easy    	| DELETE, Subquery 	|    21/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0196-Delete_Duplicate_Emails)   	|
 |   184  	|   [Department Highest Salary](https://leetcode.com/problems/department-highest-salary/)  	|    Medium    	| GROUP BY + Subquery 	|    19/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0184-Department_Highest_Salary)   	|
 |   620  	|   [Not Boring Movies](https://leetcode.com/problems/not-boring-movies/)  	|    Easy    	| Simple Query 	|    10/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0620-Not_Boring_Movies)   	|
