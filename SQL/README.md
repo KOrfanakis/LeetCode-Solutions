@@ -2,6 +2,9 @@
 
 | Number 	|        Question       	| Difficulty 	|    Topic   	| Completion Date 	| Solution 	|
 |:------:	|:---------------------:	|:----------:	|:----------:	|:---------------:	|:--------:	|
+|   627  	|   [Swap Salary](https://leetcode.com/problems/swap-salary/)  	|    Easy    	| CASE, IF, REPLACE 	|    12/04/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0627-Swap_Salary)   	|
+|   607  	|   [Sales Person](https://leetcode.com/problems/sales-person/)  	|    Easy    	| Subqueries, LEFT JOIN 	|    09/04/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0607-Sales_Person)   	|
+|   586  	|   [Customer Placing the Largest Number of Orders](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)  	|    Easy    	| GROUP BY + Subquery 	|    06/04/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0586-Customer_Placing_the_Largest_Number_of_Orders)   	|
 |   185  	|   [Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)  	|    Hard    	| DENSE_RANK + GROUP BY 	|    25/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0185-Department_Top_Three_Salaries)   	|
 |   511  	|   [Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/)  	|    Easy    	| GROUP BY, Subquery 	|    25/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0511-Game_Play_Analysis_I)   	|
 |   196  	|   [Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)  	|    Easy    	| DELETE, Subquery 	|    21/03/2022   	|   [Link](https://github.com/KOrfanakis/LeetCode-Solutions/tree/main/SQL/Problems/0196-Delete_Duplicate_Emails)   	|
