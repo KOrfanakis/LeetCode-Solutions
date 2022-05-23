@@ -13,7 +13,6 @@ WHERE salary < (SELECT MAX(salary) FROM Employee);
 
 -- Solution #02: Using a Correlated Subquery
 
-
 SELECT
     IFNULL(
         (SELECT DISTINCT(salary)
