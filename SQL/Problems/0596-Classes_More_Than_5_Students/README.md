@@ -19,7 +19,7 @@ Write an SQL query to report all the classes that have at least five students. R
 
 <br>
 
-## Solution
+## Solutions
 
 ### Solution #01: Using GROUP BY + HAVING
 
@@ -30,7 +30,9 @@ GROUP BY class
 HAVING COUNT(DISTINCT student) >= 5;
 ```
 
-### Solution #02: Using a Subquerry + GROUP BY
+<br>
+
+### Solution #02: Using a Subquery + GROUP BY
 
 ```sql
 SELECT class
