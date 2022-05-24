@@ -12,7 +12,7 @@ GROUP BY class
 HAVING COUNT(DISTINCT student) >= 5;
 
 
--- Solution #02: Using a Subquerry + GROUP BY
+-- Solution #02: Using a Subquery + GROUP BY
 
 SELECT class
 FROM
